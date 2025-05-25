@@ -136,3 +136,4 @@ print(men_stepped_on_the_moon)
 
 ## Result
 Thus the python program to get the input from the user and print it executed successfully.
+
